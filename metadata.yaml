@@ -1,0 +1,29 @@
+_repo: Australia-Twice-Traversed--13-The-Romance-of-Exploration-Being-a-Narrative-Compiled-from-the-J__4974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giles, Ernest
+    alias: Giles, William Ernest Powell
+    birthdate: 1835
+    deathdate: 1897
+    gutenberg_agent_id: '1611'
+    url: http://www.gutenberg.org/2009/agents/1611
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Giles
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcc 'DU'
+- GITenberg
+title: "Australia Twice Traversed\r\nThe Romance of Exploration, Being a Narrative\
+  \ Compiled from the Journals of Five Exploring Expeditions into and Through Central\
+  \ South Australia and Western Australia, from 1872 to 1876"
+url: http://www.gutenberg.org/ebooks/4974
